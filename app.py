@@ -14,8 +14,8 @@ unify = Unify(api_key=api_key, endpoint=endpoint)
 
 st.markdown("""
     <div style="text-align: center;">
-        <h1 style="color: #4CAF50;">Aushdhi AI Chatbot</h1>
-        <h2 style="color: #FF5733;">🤖 Your Intelligent Healthcare Assistant</h2>
+        <h1 style="color: #EEEEEE;">Aushdhi AI Chatbot</h1>
+        <h2 style="color: #DDDDDD;">🤖 Your Intelligent Healthcare Assistant</h2>
     </div>
 """, unsafe_allow_html=True)
 #cont1 = st.container(height=500)
